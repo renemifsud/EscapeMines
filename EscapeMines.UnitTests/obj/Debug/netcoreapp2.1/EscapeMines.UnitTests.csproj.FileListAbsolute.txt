@@ -1,0 +1,17 @@
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\bin\Debug\netcoreapp2.1\EscapeMines.UnitTests.deps.json
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\bin\Debug\netcoreapp2.1\EscapeMines.UnitTests.runtimeconfig.json
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\bin\Debug\netcoreapp2.1\EscapeMines.UnitTests.runtimeconfig.dev.json
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\bin\Debug\netcoreapp2.1\EscapeMines.UnitTests.dll
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\bin\Debug\netcoreapp2.1\EscapeMines.UnitTests.pdb
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\obj\Debug\netcoreapp2.1\EscapeMines.UnitTests.csprojAssemblyReference.cache
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\obj\Debug\netcoreapp2.1\EscapeMines.UnitTests.csproj.CoreCompileInputs.cache
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\obj\Debug\netcoreapp2.1\EscapeMines.UnitTests.AssemblyInfoInputs.cache
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\obj\Debug\netcoreapp2.1\EscapeMines.UnitTests.AssemblyInfo.cs
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\obj\Debug\netcoreapp2.1\EscapeMines.UnitTests.dll
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\obj\Debug\netcoreapp2.1\EscapeMines.UnitTests.pdb
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\bin\Debug\netcoreapp2.1\EscapeMines.dll
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\bin\Debug\netcoreapp2.1\EscapeMines.pdb
+D:\Rene'\Repos\EscapeMines\EscapeMines.UnitTests\obj\Debug\netcoreapp2.1\EscapeMines.UnitTests.csproj.CopyComplete
